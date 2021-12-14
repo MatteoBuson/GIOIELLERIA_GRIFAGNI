@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body {
+    font-family:Montserrat,swap;
+}
+
+
+.arancione {
+    background-color:#c29436;
+    color:white;
+}
+
+.arancione {
+    background-color:#c29436;
+    color:white;
+}
+
+#fascetta2 {
+    height:  10px;
+    padding: 577px;
+    padding-right: 5px;
+    word-spacing: 3px;
+}
+
+
+#fascetta {
+    height: 36px;
+    padding: 20px;
+    padding-right: 100px;
+    word-spacing: 3px;
+}
+#fascetta a{
+    color: white;
+    text-decoration:none;
+}
+#fascetta a:hover{
+    color: #833471;
+}
+#navbar-bianca {
+    height: 91px;
+    padding: 10px;
+    padding-right: 100px;
+    word-spacing: 6px;
+    color: #c29436;
+}
+#navbar-bianca a {
+    color: #c29436;
+    text-decoration: none;
+    font-size: 16px;
+}
+#navbar-bianca a:hover {
+    color: #833471;
+}
+
+#carousel {
+    
+    height: 367px;
+
+}
+.elemento-carousel {
+    height: 300px;
+}
+
+#card {
+    min-height: 367px;
+  
+}
+
+#testo {
+    min-height: 37px;
+}
+
+#blu {
+    height: 36px;
+    padding: 20px;
+    padding-right: 100px;
+    word-spacing: 3px;
+}
